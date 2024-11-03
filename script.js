@@ -1,4 +1,4 @@
-const unsplashApiKey = "vfgsTV3L-NYzWFg5bFMcXNbPL9AuxUqlUiT0OskUGO4"; // Add your valid Unsplash API key here
+const unsplashApiKey = "Enter your own Key"; // Add your valid Unsplash API key here
 const searchForm = document.querySelector("#searchForm"),
   searchResult = document.querySelector("#searchResult"),
   searchBox = document.querySelector("#searchBox"),
